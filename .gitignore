@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.log
+
+# Firebase credentials
+serviceAccountKey.json
+firebase-service-account.json
+*.firebase.json

@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+groq
+pydantic
+python-dotenv
+pymupdf
+python-docx
+requests
+pytest
+httpx
+firebase-admin>=6.5.0
