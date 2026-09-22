@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings
+/target/
+.DS_Store
+.idea/
+*.iml
+*service-account*.json
+firebase-credentials.json
+.env
